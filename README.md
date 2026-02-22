@@ -43,8 +43,8 @@
 
 ```bash
 # 1. Clone this repository
-git clone https://github.com/YOUR-USERNAME/YOUR-REPO-NAME.git
-cd YOUR-REPO-NAME
+git clone https://github.com/ranjan-uprety/slice-stack.git
+cd slice-stack
 
 # 2. Install dependencies
 npm install
@@ -52,3 +52,32 @@ npm install
 # 3. Start the development server
 npm start
 ```
+
+→ Open http://localhost:3000 in your browser
+Everything should appear nicely — enjoy building your pizza menu! 🍕
+📋 Available Scripts
+Bashnpm start # Runs the app in development mode
+npm test # Runs interactive test watcher
+npm run build # Builds production version into /build folder
+npm run eject # (one-way) Removes CRA dependency – full control
+🖼️ Screenshots
+<img src="./public/homepage.jpg" alt="Full pizza menu view" width="48%" style="border-radius: 12px; margin: 1rem;">
+🛠️ Built With
+
+React 18 (functional components)
+Create React App
+Modern CSS (flexbox / grid)
+No external component libraries – 100% from scratch feel
+
+🎯 Great For
+
+Your first or second React portfolio project
+Practicing clean component architecture
+Understanding data → UI flow in React
+Having something nice-looking to show in < 200–300 lines
+
+📄 License
+MIT License
+Feel free to use this project for learning, portfolio, or whatever you want!
+Made with 🍕・React・❤️
+Buon appetito & happy coding!
